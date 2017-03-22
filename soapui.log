@@ -1,0 +1,17 @@
+2016-09-07 14:40:57,913 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\1193653\soapui-settings.xml]
+2016-09-07 14:40:58,595 INFO  [WsdlProject] Loaded project from [file:/D:/BuildTest/StommeAdvancedBuild/src/test/resources/Sample-soapui-project.xml]
+2016-09-07 14:40:58,916 INFO  [SoapUITestCaseRunner] Setting project property [CityFrom] to [Delhi]
+2016-09-07 14:40:58,916 INFO  [SoapUITestCaseRunner] Setting project property [CityTo] to [Pune]
+2016-09-07 14:40:58,916 INFO  [SoapUITestCaseRunner] Setting project property [FromUnit] to [degreeCelsius]
+2016-09-07 14:40:58,916 INFO  [SoapUITestCaseRunner] Setting project property [Temperature] to [100]
+2016-09-07 14:40:58,916 INFO  [SoapUITestCaseRunner] Setting project property [ToUnit] to [kelvin]
+2016-09-07 14:40:58,924 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [SampleSoapProject]
+2016-09-07 14:40:58,924 INFO  [SoapUITestCaseRunner] Running TestSuite [SampleServices], runType = SEQUENTIAL
+2016-09-07 14:40:58,933 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Tempconverter]
+2016-09-07 14:40:58,952 INFO  [SoapUITestCaseRunner] running step [TemperatureConvertor]
+2016-09-07 14:41:11,674 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2016-09-07 14:41:11,681 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Tempconverter], time taken: 12713ms, status: FINISHED
+2016-09-07 14:41:11,684 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [DistanceCalc]
+2016-09-07 14:41:11,685 INFO  [SoapUITestCaseRunner] running step [Distancematrix]
+2016-09-07 14:41:24,574 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [DistanceCalc], time taken: 12770ms, status: FINISHED
+2016-09-07 14:41:24,575 INFO  [SoapUITestCaseRunner] TestSuite [SampleServices] finished with status [FINISHED] in 25646ms

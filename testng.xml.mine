@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- If each test class contains more than 1 test method, add ' group-by-instances="true" 
+	' to the suite tag -->
+<suite name="Suite1" parallel="true">
+ 	  <!--  <test name="Test1"> 
+ 		<classes> 
+		 <class name="com.tcs.saf.test.CucumberRunTestJCPenney" />  
+		</classes> 
+	</test>  --> 
+	   <!-- <test name="Test2"> 
+ 		<classes>
+ 		 <class name="com.tcs.saf.test.LufthansaCucumber" />
+		</classes> 
+	</test>  -->   
+	<!--    <test name="Test3"> 
+ 		<classes>
+ 		   <class name="com.tcs.saf.test.GoogleSearchCucumber" />
+		</classes> 
+	</test>  -->    
+<!-- <test name="Test4">
+		<classes>
+			<class name="com.tcs.saf.test.Tcs_Test" />
+		</classes>
+	</test>    -->
+	  <!-- <test name="Test5">
+		<classes>
+	     <class name="com.tcs.saf.test.LufthansaTest" /> 	
+		</classes>
+	</test>   -->
+	 <!-- <test name="Test6">
+		<classes>
+	     <class name="com.tcs.saf.test.Armani_Test" /> 	
+		</classes>
+	</test>   --> 
+	<!-- <test name="Test7">
+		<classes>
+	     <class name="com.tcs.saf.test.EriBank" /> 	
+		</classes>
+	</test>   --> 
+	<test name="Test8"> 
+ 		<classes>
+ 		 <class name="com.tcs.saf.test.TC_7" />
+		</classes> 
+	</test>    
+</suite>
