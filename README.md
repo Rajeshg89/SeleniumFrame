@@ -1,2 +1,2 @@
 # SeleniumFrame
-Automation framework
+Automation framework using selenium and other open source tools
